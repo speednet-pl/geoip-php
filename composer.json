@@ -1,0 +1,12 @@
+{
+    "name": "speednet-pl/geoip-php",
+    "authors": [
+        {
+            "name": "Speednet",
+            "email": "git@speednet.pl"
+        }
+    ],
+    "require": {
+        "ip2location/ip2location-php": "7.*"
+    }
+}
